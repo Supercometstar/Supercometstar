@@ -5,7 +5,7 @@
 <a href="#--about-me--"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Summary.svg" /></a>
 
 <h3>
-  - 🔭 Full-stack developer with 6+ years of experience designing and building scalable, high-performance web applications<br/>
+  - 🔭 Full-stack developer with 3+ years of experience designing and building scalable, high-performance web applications<br/>
   - 📦 AI enthusiast with 3+ years of experience. mastered ML, DL, RL(special)<br/>
   - 📤 Scraping and Automation specialist with solid experience leveraging several tools and APIs<br/>
 </h3>
